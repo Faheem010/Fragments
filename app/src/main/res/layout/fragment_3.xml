@@ -10,6 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
+        android:background="#AF7979"
         android:text="@string/fragment3"
         android:textSize="30sp" />
 

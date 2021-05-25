@@ -10,8 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
+        android:background="#2CD1BE"
         android:text="@string/fragment1"
-        android:textAlignment="center"
         android:textSize="30sp" />
 
 </LinearLayout>

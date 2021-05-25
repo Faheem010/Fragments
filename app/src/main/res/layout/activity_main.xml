@@ -43,15 +43,14 @@
         android:onClick="buttton3"
         android:text="Fragment3" />
 
-    <fragment
+    <FrameLayout
         android:id="@+id/fragment"
-        android:layout_width="278dp"
-        android:layout_height="109dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_centerVertical="true"
-        android:layout_marginStart="-1dp"
-        android:layout_marginTop="165dp" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn3"
+        android:layout_marginTop="20dp">
+
+    </FrameLayout>
 
 
 </RelativeLayout>
